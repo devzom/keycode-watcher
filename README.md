@@ -1,7 +1,12 @@
 # Key watcher
 
-This template should help get you started developing with Svelte in Vite.
+Check pressed key on your keyboard.
+
+![App screenshot](/assets/app-screenshot.png?raw=true "App screenshot")
+
 
 ## Recommended IDE Setup
 
 [VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
+
+# MIT License
