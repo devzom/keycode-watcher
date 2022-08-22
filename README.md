@@ -9,4 +9,6 @@ Check pressed key on your keyboard.
 
 [VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
 
-# MIT License
+### MIT License
+
+[License file](/LICENSE)
